@@ -6,6 +6,7 @@ EC-Council Certified Ethical Hacker (CEH)
 CompTIA Security+  
 CompTIA Network+  
 LPIC-1 Linux Professional Institute Certification  
+PCEP™ – Certified Entry-Level Python Programmer
   
 Degrees  
 MBA - International Masters of Business Administration  
