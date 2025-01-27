@@ -4,9 +4,8 @@ Linux Essentials - Linux Professional Institute (LPI) Global Certification
 Certs in Progress (Expected Date - June 2025)  
 EC-Council Certified Ethical Hacker (CEH)  
 CompTIA Security+  
-CompTIA Network+  
 LPIC-1 Linux Professional Institute Certification  
-PCEP™ – Certified Entry-Level Python Programmer
+
 
 
 
