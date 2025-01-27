@@ -7,20 +7,7 @@ CompTIA Security+
 CompTIA Network+  
 LPIC-1 Linux Professional Institute Certification  
 PCEP™ – Certified Entry-Level Python Programmer
-  
-Degrees  
-MBA - International Masters of Business Administration  
-Bachelors in Organizational Leadership  
-Associates in Liberal Arts  
-  
-Degrees in Progress  
-Masters in Education (M.Ed)  
-Associate of Science Degree in Cyber Defense  
-Certificate of Achievement in Cyber Operations  
-Certificate of Achievement in Cybersecurity/Information Security Analyst  
-  
-Honor Society  
-National Society of Leadership and Success  
+
 
 
 <!--
