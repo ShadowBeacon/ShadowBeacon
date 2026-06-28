@@ -1,10 +1,11 @@
 ## Certifications  
 Linux Essentials - Linux Professional Institute (LPI) Global Certification  
+CompTIA Security+
   
-Certs in Progress (Expected Date - June 2025)  
+Certs in Progress (Expected Date - 2027)  
+CompTIA Linux+
+CompTIA Server+
 EC-Council Certified Ethical Hacker (CEH)  
-CompTIA Security+  
-LPIC-1 Linux Professional Institute Certification  
 
 
 
